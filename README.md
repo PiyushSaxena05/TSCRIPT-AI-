@@ -26,7 +26,7 @@ This project was built to explore:
 
 ---
 
-# 🚀 Features
+#  Features
 
 ✅ Upload audio files from browser
 
@@ -262,7 +262,7 @@ Hello, how are you fitting Spring AI?
 
 ---
 
-# 🔥 API Documentation
+# API Documentation
 
 ## Endpoint
 
@@ -307,7 +307,7 @@ POST http://localhost:8080/api/transcribe
 
 ---
 
-# 🧪 API Testing
+#  API Testing
 
 All APIs were manually tested using **Postman**.
 
@@ -401,7 +401,7 @@ http://localhost:5173
 
 ---
 
-# 📚 Concepts Demonstrated
+#  Concepts Demonstrated
 
 - Full Stack Development
 - REST APIs
@@ -416,7 +416,7 @@ http://localhost:5173
 
 ---
 
-# 🚧 Challenges Faced
+# Challenges Faced
 
 - Node.js PATH configuration
 - FFmpeg setup on Windows
@@ -458,7 +458,7 @@ http://localhost:5173
 
 
 
-# ⭐ Why This Project Matters
+#  Why This Project Matters
 
 TScript AI demonstrates how modern backend systems can integrate Artificial Intelligence models locally without relying on paid APIs.
 
