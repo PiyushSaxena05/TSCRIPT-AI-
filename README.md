@@ -242,7 +242,8 @@ TScript-AI
 
 Upload audio files and generate transcripts instantly.
 
-![Home Page](./screenshots/home-page.png)
+![Uploading Screenshot 2026-07-16 182108.png…]()
+
 
 ---
 
