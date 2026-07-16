@@ -238,12 +238,15 @@ TScript-AI
 
 # 📸 Application Preview
 
-## Home Screen
+
+
+## 📸 Application Preview
 
 Upload audio files and generate transcripts instantly.
 
-![Screenshot 2026-07-16 182108](https://github.com/user-attachments/assets/xxxxx)
-
+<p align="center">
+  <img width="900" alt="TScript AI UI" src="https://github.com/user-attachments/assets/a79ecd26-4296-4c43-99b6-10be776cf381" />
+</p>
 ---
 
 ## Sample Output
