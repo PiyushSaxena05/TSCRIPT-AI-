@@ -337,7 +337,7 @@ All APIs were manually tested using **Postman**.
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/TScript-AI.git
+git clone https://github.com/PiyushSaxena05/TScript-AI.git
 ```
 
 ---
